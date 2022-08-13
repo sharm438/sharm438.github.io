@@ -10,5 +10,6 @@ My work at Purdue mainly involves exploring collaborative machine learning algor
 sharm438[at]purdue[dot]edu
 
 ### Publications
-
+- _Lerna: transformer architectures for configuring error correction tools for short- and long-read genome sequencing_ published in the journal of _BMC bioinformatics 23, no. 1 (2022): 1-26._
+- _Power-efficient spike sorting scheme using analog spiking neural network classifier._ published in _ACM Journal on Emerging Technologies in Computing Systems (JETC) 17, no. 2 (2021): 1-29._
 
