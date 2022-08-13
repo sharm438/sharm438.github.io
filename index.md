@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Atul Sharma
 <img width="433" alt="Headshot" src="https://user-images.githubusercontent.com/70724062/184516645-b58cfaf6-724f-4e90-b4c7-8b72043494a1.PNG">
 
 Hi, I am a graduate student at [Purdue University](https://www.purdue.edu/). I am a research assistant in the Dependable Computing Systems Lab [(DCSL)](https://engineering.purdue.edu/dcsl/) supervised by [Prof. Saurabh Bagchi](https://saurabhbagchi.us) in the [ECE](https://engineering.purdue.edu/ECE) Department, and in the Innovatory for Cells and Machines Lab [(ICAN)](https://schaterji.io/research/) supervised by [Prof. Somali Chaterji](https://schaterji.io/) in the [ABE](https://engineering.purdue.edu/ABE) Department. Previously, I graduated with a B.Tech degree from the Indian Institute of Technology, Kharagpur [(IIT KGP)](http://www.iitkgp.ac.in/) with a major in [E&ECE](http://www.iitkgp.ac.in/department/EC) and a minor in [CSE](http://cse.iitkgp.ac.in/).
