@@ -1,36 +1,14 @@
 ## Welcome to GitHub Pages
 <img width="433" alt="Headshot" src="https://user-images.githubusercontent.com/70724062/184516645-b58cfaf6-724f-4e90-b4c7-8b72043494a1.PNG">
+
 Hi, I am a graduate student at Purdue University. I am a research assistant in the Dependable Computing Systems Lab [(DCSL)](https://engineering.purdue.edu/dcsl/) supervised by [Prof. Saurabh Bagchi](https://saurabhbagchi.us) in the [ECE](https://engineering.purdue.edu/ECE) Department, and in the Innovatory for Cells and Machines Lab [(ICAN)](https://schaterji.io/research/) supervised by [Prof. Somali Chaterji](https://schaterji.io/) in the [ABE](https://engineering.purdue.edu/ABE) Department. Previously, I graduated with a B.Tech degree from the Indian Institute of Technology, Kharagpur [(IIT KGP)](http://www.iitkgp.ac.in/) with a major in E&ECE and a minor in CSE.
 
 My work at Purdue mainly involves exploring collaborative machine learning algorithms like Federated learning, and their vulnerabilities. I have been focussing on making these algorithms secure and efficient.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### E-mail
 
-```markdown
-Syntax highlighted code block
+sharm438[at]purdue[dot]edu
 
-# Header 1
-## Header 2
-### Header 3
+### Publications
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharm438/sharm438.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
