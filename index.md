@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/sharm438/sharm438.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Hi, I am a graduate student at Purdue University. I am a research assistant in the Dependable Computing Systems Lab [(DCSL)](https://engineering.purdue.edu/dcsl/) supervised by [Prof. Saurabh Bagchi](https://saurabhbagchi.us) in the [ECE](https://engineering.purdue.edu/ECE) Department, and in the Innovatory for Cells and Machines Lab [(ICAN)](https://schaterji.io/research/) supervised by [Prof. Somali Chaterji](https://schaterji.io/) in the [ABE](https://engineering.purdue.edu/ABE) Department. Previously, I graduated with a B.Tech degree from the Indian Institute of Technology, Kharagpur [IIT KGP](http://www.iitkgp.ac.in/) with a major in E&ECE and a minor in CSE.
+
+My work at Purdue mainly involves exploring collaborative machine learning algorithms like Federated learning, and their vulnerabilities. I have been focussing on making these algorithms secure and efficient.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
