@@ -12,5 +12,5 @@ At Purdue, my work focuses on developing and enhancing collaborative machine lea
 ### Publications
 
 - _Lerna: transformer architectures for configuring error correction tools for short- and long-read genome sequencing_ published in the journal of _BMC bioinformatics 23, no. 1 (2022): 1-26._
-- Mukhopadhyay, Anand Kumar, Atul Sharma, Indrajit Chakrabarti, Arindam Basu, and Mrigank Sharad. "Power-efficient spike sorting scheme using analog spiking neural network classifier." ACM Journal on Emerging Technologies in Computing Systems (JETC) 17, no. 2 (2021): 1-29.
+- [[Article](https://dl.acm.org/doi/abs/10.1145/3432814)] Mukhopadhyay, Anand Kumar, Atul Sharma, Indrajit Chakrabarti, Arindam Basu, and Mrigank Sharad. "Power-efficient spike sorting scheme using analog spiking neural network classifier." ACM Journal on Emerging Technologies in Computing Systems (JETC) 17, no. 2 (2021): 1-29.
 
