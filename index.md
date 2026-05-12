@@ -1,5 +1,5 @@
 ## Atul Sharma
-<img width="433" alt="Headshot" src="https://user-images.githubusercontent.com/70724062/184516645-b58cfaf6-724f-4e90-b4c7-8b72043494a1.PNG">
+<img width="433" alt="Headshot" src="ChatGPT Image May 12, 2026, 06_34_43 PM.png">
 
 Hi, I am a graduate student at [Purdue University](https://www.purdue.edu/). I am a research assistant in the Dependable Computing Systems Lab [(DCSL)](https://engineering.purdue.edu/dcsl/) supervised by [Prof. Saurabh Bagchi](https://saurabhbagchi.us) in the School of [Electrical and Computer Engineering](https://engineering.purdue.edu/ECE), and in the Innovatory for Cells and Machines Lab [(ICAN)](https://schaterji.io/research/) supervised by [Prof. Somali Chaterji](https://schaterji.io/) in the [ABE](https://engineering.purdue.edu/ABE) Department. Previously, I graduated with a B.Tech degree from the Indian Institute of Technology, Kharagpur [(IIT KGP)](http://www.iitkgp.ac.in/) with a major in [E&ECE](http://www.iitkgp.ac.in/department/EC) and a minor in [CSE](http://cse.iitkgp.ac.in/).
 
