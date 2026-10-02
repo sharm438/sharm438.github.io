@@ -126,7 +126,7 @@ footer{padding:36px 0 50px;color:var(--muted);font-size:14px;border-top:1px soli
       <h1>Atul Sharma</h1>
       <p class="sub">PhD, Electrical &amp; Computer Engineering, Purdue University<br>
       Federated and decentralized machine learning: robustness, privacy, personalization</p>
-      <p style="margin:0">I advance collaborative machine learning where many nodes jointly train models without sharing raw data. I'm advised by <a href="https://saurabhbagchi.us">Saurabh Bagchi</a> and <a href="https://schaterji.io/">Somali Chaterji</a>, with theoretical collaboration from Chaoyue Liu.</p>
+      <p style="margin:0">I advance collaborative machine learning where many nodes jointly train models without sharing raw data. I was advised by Prof. <a href="https://saurabhbagchi.us">Saurabh Bagchi</a> and Prof. <a href="https://schaterji.io/">Somali Chaterji</a>, with theoretical collaboration from Prof. Chaoyue Liu.</p>
       <div class="links">
         <a class="btn primary" href="Resume_Atul.pdf">Resume (PDF)</a>
         <a class="btn" href="https://scholar.google.com/citations?user=0gIenGAAAAAJ&hl=en&oi=ao">Google Scholar</a>
