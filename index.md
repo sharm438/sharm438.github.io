@@ -28,9 +28,9 @@ Publications
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Atul Sharma — Decentralized & Federated Machine Learning</title>
-<meta name="description" content="Atul Sharma, PhD candidate in ECE at Purdue University. Research on federated and decentralized machine learning. NeurIPS 2026, IEEE S&P, CVPR, AsiaCCS. Prior research internships at NVIDIA and Google.">
+<meta name="description" content="Atul Sharma, PhD in ECE at Purdue University. Research on federated and decentralized machine learning. NeurIPS 2026, IEEE S&P, CVPR, AsiaCCS. Prior research internships at NVIDIA and Google.">
 <meta property="og:title" content="Atul Sharma — Decentralized & Federated Machine Learning">
-<meta property="og:description" content="PhD candidate, Purdue ECE. Federated and decentralized ML: robustness, privacy, personalization.">
+<meta property="og:description" content="PhD, Purdue ECE. Federated and decentralized ML: robustness, communication-efficient, personalization, privacy.">
 <meta property="og:type" content="website">
 <style>
 :root{
@@ -124,7 +124,7 @@ footer{padding:36px 0 50px;color:var(--muted);font-size:14px;border-top:1px soli
     <img class="photo" src="ChatGPT%20Image%20May%2012,%202026,%2006_34_43%20PM.png" alt="Atul Sharma" onerror="this.style.visibility='hidden'">
     <div>
       <h1>Atul Sharma</h1>
-      <p class="sub">PhD candidate, Electrical &amp; Computer Engineering, Purdue University<br>
+      <p class="sub">PhD, Electrical &amp; Computer Engineering, Purdue University<br>
       Federated and decentralized machine learning: robustness, privacy, personalization</p>
       <p style="margin:0">I advance collaborative machine learning where many nodes jointly train models without sharing raw data. I'm advised by <a href="https://saurabhbagchi.us">Saurabh Bagchi</a> and <a href="https://schaterji.io/">Somali Chaterji</a>, with theoretical collaboration from Chaoyue Liu.</p>
       <div class="links">
